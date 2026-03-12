@@ -90,3 +90,49 @@ Guardians of the Galaxy
 Star Trek
 Interstellar
 The Fifth Element
+
+**Technologies Used:**
+
+Python
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+CountVectorizer
+
+Cosine Similarity
+
+**Example Recommendation**
+
+Input movie:
+
+The Dark Knight
+
+Recommended movies:
+
+Batman Begins
+
+The Dark Knight Rises
+
+Man of Steel
+
+Watchmen
+
+V for Vendetta
+
+**Future Improvements**
+
+Possible improvements include:
+
+Hybrid recommendation system (content + collaborative filtering)
+
+Movie poster interface using Streamlit
+
+Fuzzy search for movie titles
+
+Ranking movies using user ratings
+
+Deep learning based recommendation models
